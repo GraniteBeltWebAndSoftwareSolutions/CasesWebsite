@@ -2,6 +2,7 @@
 
 
 echo "click arrow to go back now ";
+echo "<a href='snakeLikeGameJavascript.html'>Click To Play Snake</a>";
 
 
 ?>
